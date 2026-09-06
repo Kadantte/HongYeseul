@@ -1,6 +1,6 @@
 #### EST AID (전. 줌인터넷)
 - **백엔드 개발자** · 2024.12. ~ 현재
-  - 2026.03.- 줌인터넷([zum.com](https://zum.com/)) / EST 통합회원([estoneid](https://estoneid.com))
+  - 2026.03.- 줌닷컴([zum.com](https://zum.com/)) / EST 통합회원([estoneid](https://estoneid.com))
   - 2025.01.-2026.03. 미브 앱([mevu](https://play.google.com/store/apps/details?id=com.estaid.mevu&hl=ko))
 
 #### 국방부
